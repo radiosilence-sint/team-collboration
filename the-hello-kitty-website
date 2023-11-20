@@ -1,0 +1,23 @@
+<html>
+    <style>
+
+
+        html {
+            background-color: rgb(240, 220, 245);
+        }
+        h1 {text-align: center;}
+        h1 {
+            background-color: rgb(231, 188, 228);
+        }
+        h3 {text-indent: 2%;}
+        p {text-indent: 5%;}
+    </style>
+        <h1 style="font-family: 'Courier New', Courier, monospace;"> Dream Space</h1>
+        <h3>What is this website?</h3>
+            <p style="font-family: monospace;"> This website is all about Hellow Kitty! We want you to be immersed in the life of Hello Kitty and Friends! Our goal is for people to learn the history, background, and future of Sanrio inc.. The bottom of our page will contain websites to buy and collect all Hello Kitty merchandise. </p>
+        <h3>Hello Kitty</h3>
+            <p style="font-family:monospace"> Hello Kitty is a cute friend (who is a girl, not a cat) created by Sanrio studio. The company originally began as a silk-producing company that was formed in Japan. Eventually, it quickly expanded and began to sell rubber sandals decorated with its first official character, Strawberry. The products rapidly grew popular, resulting in the company hiring cartoonists to create kawaii (cute) characters for Sanrio. We want you to be immersed in the life of Hello Kitty and Friends! Our goal is for people to learn the history, background, and future of Sanrio inc.. </p>
+           
+
+
+
