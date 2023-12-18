@@ -15,6 +15,16 @@
             background-color: #ffccff; /* Light pink background color */
         }
 
+    body {
+          margin: 0;
+          padding: 0;
+          background: url('https://i.pinimg.com/originals/09/65/f1/0965f1b51abad913f8a390ece9faae2a.gif') repeat;
+          background-size: cover;
+          font-family: Arial, sans-serif;
+          color: #fff;
+        }
+
+
         .login-container {
             background-color: #fff;
             padding: 20px;
@@ -79,7 +89,7 @@
             <label for="password">Password:</label>
             <input type="password" id="password" name="password" required>
 
-            <button type="button"> <a href="file:///C:/Users/chloe.181062/hello-kitty_shop.html">Login</a> </button>
+            <button type="button"> <a href="file:///C:/Users/chloe.181062/Untitled-2.html">Login</a> </button>
         </form>
     </div>
 </body>
